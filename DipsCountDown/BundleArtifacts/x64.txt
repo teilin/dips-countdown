@@ -1,0 +1,2 @@
+MainPackage=D:\Projects\DipsCountDown\DipsCountDown\bin\x64\Release\DipsCountDown_1.0.1.0_x64.appx
+SymbolPackage=D:\Projects\DipsCountDown\DipsCountDown\AppPackages\DipsCountDown_1.0.1.0_Test\DipsCountDown_1.0.1.0_x64.appxsym

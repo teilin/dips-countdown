@@ -30,7 +30,7 @@ namespace DipsCountDown
             this.InitializeComponent();
 
             var now = DateTime.Now;
-            var end = new DateTime(2019, 3, 1);
+            var end = new DateTime(2019, 4, 1);
             diff = (end - now).TotalSeconds;
 
             timer = new DispatcherTimer();
